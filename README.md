@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=35&pause=1000&color=ff0000&center=true&vCenter=true&width=900&lines=Bem+vindo!;Desenvolvedor+Front-End;" alt="Typing SVG" /></a>
-  <h1>Dê uma olhada no meu portifólio <a style="color: red;" href="https://desenvolvedormatheus.github.io/Portifolio/">clicando aqui!</a></h1>
+  <h1>Dê uma olhada no meu portifólio <a href="https://desenvolvedormatheus.github.io/Portifolio/" target="_black">clicando aqui!</a></h1>
 </div>
 
 <br />
