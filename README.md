@@ -20,12 +20,16 @@
 </div>
 <br>
 <div align-items="left">
-    <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166786-52a42558-6dc3-4cc5-a163-3db5bb65d903.png"> - Estudando Análise e desenvolvimento de sistemas na <a href="https://www.cruzeirodosul.edu.br">Cruzeiro do Sul</a></p>
+  <p><img align="center" width="30px" height="30px" src="https://user-images.githubusercontent.com/80858391/211166786-52a42558-6dc3-4cc5-a163-3db5bb65d903.png">
+    - Estudando Análise e desenvolvimento de sistemas na <a href="https://www.cruzeirodosul.edu.br">Cruzeiro do Sul</a></p>
+  
+  <p><img align="center" height="15px" src="https://lp.dio.me/wp-content/uploads/2023/03/LOGO-DIO-COLOR.png">
+    - Estudando Angular+Java na <a href="https://www.dio.me">DIO.me</a></p>
 </div>
 
 <h2 align="center">Tecnologias</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,py,git,github,vscode">
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,php,py,git,github,vscode">
 </div>  
 
 <br><br>
