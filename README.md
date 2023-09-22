@@ -2,7 +2,7 @@
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=60&lines=Bem+vindo!" alt="Typing SVG" /></a>
   
-  # Dê uma olhada no meu portifólio <a href="https://desenvolvedormatheus.github.io/Portifolio/" target="_blank">clicando aqui!</a>
+  # Dê uma olhada no meu portfólio <a href="https://desenvolvedormatheus.github.io/Portifolio/" target="_blank">clicando aqui!</a>
 </div>
 
 <br />
@@ -32,8 +32,8 @@
     - Estudando Angular+Java na <a href="https://www.dio.me">DIO.me</a></p>
 </div>
 
+## Tecnologias
 <div align="center">
-    ## Tecnologias
   <hr>
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,php,py,git,github,vscode">
 </div>
