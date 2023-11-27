@@ -8,7 +8,6 @@
 <br />
 
 <div align="center">
-    <a href="mailto:desenvolvedormatheus.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=ff0000"></a>
     <a href="https://www.linkedin.com/in/matheus-souza-460868228/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=ff0000"></a>
 </div>
 
